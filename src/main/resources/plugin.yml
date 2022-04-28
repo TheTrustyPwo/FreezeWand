@@ -1,0 +1,9 @@
+name: FreezeWand
+version: '${version}'
+main: com.thepwo.freezewand.FreezeWand
+api-version: 1.18
+authors: [ TheTrustyPwo ]
+description: Freeze Wand
+commands:
+  wand:
+    description: "Give yourself a Freeze Wand!"
